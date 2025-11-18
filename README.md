@@ -1,4 +1,4 @@
-# 📙 Livraria Ruffles.  "<img width="40" height="40" alt="arquivo-de-banco-de-dados" src="https://github.com/user-attachments/assets/9411cb7a-c717-478b-9c46-3da0cca8dc61" />
+# 📙 Livraria Ruffles. <img width="40" height="40" alt="arquivo-de-banco-de-dados" src="https://github.com/user-attachments/assets/9411cb7a-c717-478b-9c46-3da0cca8dc61" />
 
 # 🗂️ Descrição do Banco de Dados.
 
