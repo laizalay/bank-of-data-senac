@@ -35,6 +35,9 @@ Ao concluir esta atividade, pude ampliar meus conhecimentos em:
 - Execute o script completo (⚡ Run); 
 - As tabelas serão criadas automaticamente no banco livraria_ruffles.
 
+# 🧑‍💻 Feito por:
+- Laiza Maria, estudante de ADS na Faculdade do Senac.
+
 
 
 
