@@ -2,7 +2,7 @@
 
 # 🗂️ Descrição do Banco de Dados.
 
-  Este projeto consiste no desenvolvimento de um banco de dados para gerenciamento de uma livraria, incluindo operações de Cadastro, Leitura, Atualização e Exclusão (CRUD) para livros, autores, clientes, categorias, vendas e pagamento
+  Esta atividade consiste no desenvolvimento de um banco de dados para gerenciamento de uma livraria, incluindo operações de Cadastro, Leitura, Atualização e Exclusão (CRUD) para livros, autores, clientes, categorias, vendas e pagamento.
 O sistema também conta com controle de estoque, permitindo gerenciar quantidades disponíveis, entradas e saídas de produtos.
 
 # 📌 Objetivo da atividade
